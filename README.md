@@ -47,6 +47,14 @@ The project uses a digital payment transaction dataset inspired by real-world on
 - Streamlit dashboard deployment
 
 ---
+## Current Progress
+
+✅ Simulated internal sales records  
+✅ Created payment confirmation records  
+✅ Built reconciliation engine  
+✅ Detected unmatched transactions  
+✅ Identified duplicate payments  
+
 
 ## Author
 
